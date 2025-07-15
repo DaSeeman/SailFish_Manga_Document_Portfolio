@@ -29,25 +29,25 @@ Documentation (1-2 pages each)
 Additional Document: Writers Resume[Int] Artist/Writer Onboarding 
  
 1.	[Int] Artist/Writer Onboarding
-2.	
-3.	[Ext] Release Notes For A Website Update
-4.	
-5.	[Int] Meeting Notes 
+	
+2.	[Ext] Release Notes For A Website Update
+
+3.	[Int] Meeting Notes 
     a.	Convention planning
     b.	Planned maintenance 
     c.	Release schedules.
 
-6.	[Ext] FAQs for Fans and Artists
-7.	
-8.	[Int] Company Memo/Newsletter to Artists 
+4.	[Ext] FAQs for Fans and Artists
+
+5.	[Int] Company Memo/Newsletter to Artists 
     a.	Site Downtime 
     b.	Convention Announcement 
     c.	Updates To the Code Of Conduct
   	
-9.	[Ext] Website User Guide 
+6.	[Ext] Website User Guide 
     a.	Simple website layout walkthrough
   	
-11.	[Int] Writer’s code of conduct
+7.	[Int] Writer’s code of conduct
  
 
 Works Cited
