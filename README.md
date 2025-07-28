@@ -1,3 +1,5 @@
+IMPORTANT: IN ORDER TO VIEW EACH DOCUMENT, CLICK THE DOCX. FILE AND THEN CLICK DOWNLOAD
+
 # Sailfin Manga Document Portfolio
 
 Welcome to the documentation portfolio for Sailfin Manga and Publishing Co., an independent online manga company that blends traditional storytelling with diverse new voices.
